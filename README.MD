@@ -2,5 +2,4 @@
 
 ## Autor: Lucas Langeani
 
-Edit:
-Edição sem saber que Lucas estava trabalhando 2
+Edit: Edição sem saber que Miguel estava editando
